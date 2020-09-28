@@ -120,8 +120,7 @@ echo
 echo
 echo
 echo -e $green "         TELEGRAM:$red ELHARAM4"
-echo -e $green "         FACEBOOK:$red 
-https://www.facebook.com/profile.php?id=100054365614868"
+echo -e $green "         FACEBOOK:$red https://www.facebook.com/profile.php?id=100054365614868"
 echo -e $green "         WHATSAPP:$red +201110173909"
 echo
 echo
